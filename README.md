@@ -33,7 +33,7 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 
 Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
-* SDKMan! para gerenciamento e instalação do Java e Maven
+* [SDKMan! para gerenciamento e instalação do Java e Maven] [1]
 
 * Referência do Intellij IDEA Community, para download
 
