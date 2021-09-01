@@ -1,10 +1,10 @@
 # Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.
 
-Nesta aula, aprendemos a testar unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Como desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito e também como desenvolver funcionalidades da nossa API através da prática do TDD.
+Nesta aula, aprendemos a testar unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Como desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, foram apresentados os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito e como desenvolver funcionalidades da nossa API através da prática do TDD.
 
 Durante a sessão, foram abordados os seguintes tópicos:
 
-* Baixar um projeto através do Git para desenolver nossos testes unitários.
+* Baixar um projeto através do Git para desenvolver nossos testes unitários.
 * Apresentação conceitual sobre testes: a pirâmide dos tipos de testes, e também a importância de cada tipo de teste durante o ciclo de desenvolvimento.
 * Foco nos testes unitários: mostrar o porque é importante o desenvolvimento destes tipos de testes como parte do ciclo de desenvolvimento de software.
 * Principais frameworks para testes unitários em Java: JUnit, Mockito e Hamcrest.
@@ -15,7 +15,7 @@ Para executar o projeto no terminal, digite o seguinte comando:
 
     mvn spring-boot:run
 
-Para executar a suíte de testes desenvolvida durante a live coding, basta executar o seguinte comando:
+Para executar a suíte de testes desenvolvida, basta executar o seguinte comando:
 
     mvn clean test
 
